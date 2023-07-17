@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://media.tenor.com/xKyoKu_TJWUAAAAC/beckadoodles-love.gif);
+    background-size: cover;
+}   
+
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: flex-end;
+    
+}
+
+#lolgif {
+    display: flex;
+    justify-content: flex-end;
+}
+

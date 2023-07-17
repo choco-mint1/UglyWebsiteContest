@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: grey;
+    background-image: url(https://media.tenor.com/jPygqsXDpBEAAAAi/bddomingorealty-bddrc.gif);
+
+}
+
+#star {
+    display: flex;
+    justify-content: center;
+}
